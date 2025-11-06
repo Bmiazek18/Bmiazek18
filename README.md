@@ -36,7 +36,7 @@ I’m always open to **collaborating on open-source projects**, **academic resea
 
 ## 📊 GitHub Stats  
 
-
+<div style="align="center"">
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BMiazek18&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 </a>
