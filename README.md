@@ -41,7 +41,16 @@ I’m always open to **collaborating on open-source projects**, **academic resea
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BMiazek18&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BMiazek18&layout=compact&theme=tokyonight&hide_border=true)  
 </div>
+<div align="center">
 
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+</a>
+
+</div>
 
 
 ---
