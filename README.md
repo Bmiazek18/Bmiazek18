@@ -14,20 +14,14 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** C++, Python, Java, JavaScript, SQL  
-**Frameworks & Tools:** React, Node.js, Flask, Git, Docker  
-**Operating Systems:** Linux, Windows  
+**Languages:** C/C++, Python, PHP, JS/Typescript 
+**Frameworks & Tools:** React, Vue  
+**Operating Systems:** MacOS/Windows  
 
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BMiazek18)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BMiazek18)](https://github.com/anuraghazra/github-readme-stats)
----
 
-## 📫 Contact
-- ✉️ Email: [your.email@example.com]  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]  
-- 🐙 GitHub: [github.com/your-username]  
 
 ---
 
