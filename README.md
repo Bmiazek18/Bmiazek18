@@ -20,10 +20,7 @@
 
 ---
 
-## 📚 Current Projects
-- 🧩 *[Project Name]* — Short description of what it does  
-- 🤖 *[Project Name]* — AI-related or academic project  
-- 🌐 *[Project Name]* — Web app or personal portfolio  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BMiazek18)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
