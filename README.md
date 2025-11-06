@@ -27,7 +27,7 @@ I’m always open to **collaborating on open-source projects**, **academic resea
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** C/C++, Python, PHP, JS/Typescript 
+**Languages:** C/C++, Python, PHP, JS/Typescript </br>
 **Frameworks & Tools:** React, Vue </br>
 **Operating Systems:** MacOS/Windows  
 
