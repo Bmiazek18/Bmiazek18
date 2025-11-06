@@ -10,7 +10,7 @@
 
 🎓 I’m a **Computer Science student at Gdańsk University of Technology** <br/>
 💻 I’m passionate about **software engineering**, **problem-solving**, and building creative digital solutions that make life easier.<br/>
-🏫 I’m the **website administrator** for the **Primary School in Role, Poland** → [www.role.gmina.lukow.pl](https://www.role.gmina.lukow.pl)  
+🏫 I’m the **website administrator** for the **Primary School in Role, Poland** → [www.role.gminalukow.pl](https://www.role.gminalukow.pl)  
 
 I enjoy learning about:
 - 🧠 **Algorithms and data structures**  
