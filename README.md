@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-🎓 I’m a **Computer Science student at Gdańsk University of Technology**
+🎓 I’m a **Computer Science student at Gdańsk University of Technology** <br/>
 💻 I’m passionate about **software engineering**, **problem-solving**, and building creative digital solutions that make life easier.
 
 I enjoy learning about:
