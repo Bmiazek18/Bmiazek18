@@ -48,5 +48,8 @@ I’m always open to **collaborating on open-source projects**, **academic resea
 
 
 ---
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
