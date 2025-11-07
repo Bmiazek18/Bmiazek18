@@ -48,6 +48,8 @@ I’m always open to **collaborating on open-source projects**, **academic resea
 
 
 ---
+## 📕 My Badges
+
 <!--START_SECTION:badges-->
 <a href="https://www.credly.com/badges/c9e2e190-2de7-4af2-be48-feda88e04add" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="80" height="80"></a>
 <!--END_SECTION:badges-->
