@@ -51,6 +51,7 @@ I’m always open to **collaborating on open-source projects**, **academic resea
 ## 📕 My Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/5f76e2c1-0342-4dcd-ae62-4e2bfb243a53" title="Networking Basics"><img src="https://images.credly.com/size/80x80/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" alt="Networking Basics" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/c9e2e190-2de7-4af2-be48-feda88e04add" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 ---
