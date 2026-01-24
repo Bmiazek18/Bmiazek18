@@ -51,6 +51,7 @@ I’m always open to **collaborating on open-source projects**, **academic resea
 ## 📕 My Badges
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/ce94a0c1-86ed-44b4-8fe7-7f7be6831435" title="Ethical Hacker"><img src="https://images.credly.com/size/80x80/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/90f389a2-f1a6-4880-b771-60192154ab1a" title="CyberOps Associate"><img src="https://images.credly.com/size/80x80/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png" alt="CyberOps Associate" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/67bfc85f-1216-4fba-b17f-9d56c369dc86" title="Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)"><img src="https://images.credly.com/size/80x80/images/fb647b84-b5ee-44fc-979f-24dd67bf6703/image.png" alt="Cisco Certified Support Technician Cybersecurity (CCST Cybersecurity)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/3f0e2eab-8396-4de4-a1b0-78a954f0d9fc" title="Cyber Threat Management"><img src="https://images.credly.com/size/80x80/images/5d5ac32b-d239-42b8-9665-8a921dc3ab47/image.png" alt="Cyber Threat Management" width="80" height="80"></a>
